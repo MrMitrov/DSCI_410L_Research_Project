@@ -10,3 +10,6 @@ This is done through code which reads in all the csv files, creates the CAHOOTS 
 
 Here are the instruction walking you through the "Data Analysis" Jupyter Notebook file:
 
+In line with my previuos instructions, the Data Analysis Jupyter Notebook is pretty straight forward as well.
+First, ensure you have the clean data file produced in the previous notebook in the same file as the notebook containing the data analysis code.
+Then, run all the cells in sequential order, and the code should do the rest.
